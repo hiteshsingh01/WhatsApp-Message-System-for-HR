@@ -1,4 +1,3 @@
-
 # 📲 Automated WhatsApp Messaging System for HR & Teams
 
 A simple yet powerful **Python + Streamlit** app to automate personalized WhatsApp messaging for HR departments, clinics, coaching institutes, and more.
@@ -7,55 +6,54 @@ A simple yet powerful **Python + Streamlit** app to automate personalized WhatsA
 
 ## 🚀 Features
 
-- Upload a CSV file with employee **Name**, **Phone Number**, and **Reporting Time**  
-- Send personalized WhatsApp messages with dynamic placeholders (`{name}`, `{time}`)  
-- Option to send the **same message to all** contacts  
-- Automatically sends messages with a **10-second delay** between each to avoid bans  
-- User-friendly Streamlit dashboard for uploading, editing, and previewing data  
+* Upload a CSV file with employee **Name**, **Phone Number**, and **Reporting Time**
+* Send personalized WhatsApp messages with dynamic placeholders (`{name}`, `{time}`)
+* Option to send the **same message to all** contacts
+* Automatically sends messages with a **10-second delay** between each to avoid bans
+* User-friendly Streamlit dashboard for uploading, editing, and previewing data
 
 ---
 
 ## 📋 How It Works
 
-1. Prepare a CSV with columns: `name`, `number`, `time` (or your custom columns)  
-2. Upload the CSV in the app  
-3. Enter your message template with placeholders like `{name}` and `{time}`  
-4. Start sending — messages will be sent automatically via WhatsApp Web with delays  
-5. Monitor progress on the dashboard  
+1. Prepare a CSV with columns: `name`, `number`, `time` (or your custom columns)
+2. Upload the CSV in the app
+3. Enter your message template with placeholders like `{name}` and `{time}`
+4. Start sending — messages will be sent automatically via WhatsApp Web with delays
+5. Monitor progress on the dashboard
 
 ---
 
 ## 🛠️ Built With
 
-- Python  
-- Streamlit  
-- pandas  
-- pywhatkit  
+* Python
+* Streamlit
+* pandas
+* pywhatkit
 
 ---
 
 ## 📂 Folder Structure
 
 ```
-
 WhatsApp-Message-System-for-HR/
 ├── main.py               # Streamlit app entry point
 ├── README.md             # Project documentation
-└── sample\_data.csv       # Example CSV for testing
-
-````
+└── sample_data.csv       # Example CSV for testing
+```
 
 ---
 
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/jayant77778/WhatsApp-Message-System-for-HR.git
-   cd WhatsApp-Message-System-for-HR
-````
 
-2. Install dependencies (you can install manually as needed):
+   ```bash
+   git clone https://github.com/hiteshsingh01/WhatsApp-Message-System-for-HR.git
+   cd WhatsApp-Message-System-for-HR
+   ```
+
+2. Install dependencies:
 
    ```bash
    pip install streamlit pandas pywhatkit
@@ -80,7 +78,7 @@ WhatsApp-Message-System-for-HR/
 
 ## 🔗 GitHub Repository
 
-👉 [https://github.com/jayant77778/WhatsApp-Message-System-for-HR](https://github.com/jayant77778/WhatsApp-Message-System-for-HR)
+👉 [https://github.com/hiteshsingh01/WhatsApp-Message-System-for-HR](https://github.com/hiteshsingh01/WhatsApp-Message-System-for-HR)
 
 ---
 
@@ -92,7 +90,7 @@ This project was developed during my learning journey at **LinuxWorld Informatic
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn – Jayant Bhati](https://www.linkedin.com/in/jayantbhati77/)
+* 💼 [LinkedIn – Hitesh Singh](https://www.linkedin.com/in/hiteshsingh01/)
 
 ---
 
